@@ -1,6 +1,7 @@
-### Implementacion de ejemplo de keycloak + springboot + React
-- El proyecto consta de 2 carpetas por el lado del front y backend
+## Implementacion de ejemplo de keycloak + springboot + React
+- Explicación en mi video https://www.youtube.com/watch?v=_9E-LJZ1j_E
 
+## Setup y Configuraciones
 ### Backend
 1. Cada endpoint del controlador cuenta con la siguiente estructura 
 ```
